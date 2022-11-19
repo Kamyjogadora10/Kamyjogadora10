@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m @Kamyjogadora10
 - 😜Meu e-mail de contado é Kamyla.lima@escola.pr.gov.br 
-- 👀 I’m interested in aprender
-- 🌱 I’m currently learning a editar
+- 👀 eu estou interessada a  aprender
+- 🌱 eu estou aprendendo  a programar 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
